@@ -1,4 +1,4 @@
-# Algerian_Forest_FIre
+# Algerian_Forest_Fire
 
 ##  Project Overview
 This project uses the **Algerian Forest Fire Dataset** to explore patterns, relationships, and predictions for **Fire Weather Index (FWI)** — an important indicator for forest fire risk.
